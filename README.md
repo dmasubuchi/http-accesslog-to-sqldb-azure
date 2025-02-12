@@ -1,18 +1,3 @@
-**Repository Name Ideas**  
-1. `azure-zip-log-pipeline`  
-2. `azure-blob-filter-loader`  
-3. `http-accesslog-to-sqldb`  
-4. `serverless-zip-log-ingestion`  
-5. `azure-log-filter-and-loader`  
-
----
-
-# README Draft
-
-```markdown
-# Azure HTTP Access Log Pipeline (Zip → Filter → SQL DB)
-
-This repository contains two Azure Functions that collaborate to process zipped HTTP access logs from Azure Blob Storage, filter them based on specific rules, and bulk-load them into an Azure SQL Database for further analysis.
 
 ## Overview
 
